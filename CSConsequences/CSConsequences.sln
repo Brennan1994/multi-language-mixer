@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSConsequencesEngine", "CSConsequencesEngine\CSConsequencesEngine.csproj", "{A600D0E0-D6C2-4860-80E0-861FFAEEE899}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSConsequencesEngine", "CSConsequencesEngine\CSConsequencesEngine.csproj", "{A600D0E0-D6C2-4860-80E0-861FFAEEE899}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSConsequencesUI", "CSConsequencesUI\CSConsequencesUI.csproj", "{49E1D41E-EEE5-4B8F-BD2B-A5C01552C2A5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSConsequencesUI", "CSConsequencesUI\CSConsequencesUI.csproj", "{49E1D41E-EEE5-4B8F-BD2B-A5C01552C2A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{7A691020-26A6-46F4-B60D-DD23BA6A51B2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{49E1D41E-EEE5-4B8F-BD2B-A5C01552C2A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{49E1D41E-EEE5-4B8F-BD2B-A5C01552C2A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{49E1D41E-EEE5-4B8F-BD2B-A5C01552C2A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A691020-26A6-46F4-B60D-DD23BA6A51B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A691020-26A6-46F4-B60D-DD23BA6A51B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A691020-26A6-46F4-B60D-DD23BA6A51B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A691020-26A6-46F4-B60D-DD23BA6A51B2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
